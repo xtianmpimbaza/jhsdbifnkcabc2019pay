@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CryptoPay</string>
+    <string name="title_activity_ticket">Ticket</string>
+    <string name="title_activity_deposit">Deposit</string>
+    <string name="title_activity_txs">Transactions</string>
+    <string name="title_activity_withdraw">Withdraw</string>
+    <string name="lbl_duration">DURATION</string>
+    <string name="lbl_genre">GENRE</string>
+    <string name="lbl_rating">RATING</string>
+    <string name="lbl_price">PRICE</string>
+    <string name="btn_buy_now">BUY NOW</string>
+    <string name="btn_coming_soon">COMING SOON</string>
+    <string name="msg_no_ticket_found">No ticket found</string>
+    <string name="lbl_scan_activity">Scan QR Code</string>
+    <string name="login_activity">Sign Up</string>
+    <string name="address">DETAILS</string>
+    <string name="action_settings">Settings</string>
+    <string name="movie_ticket_number">400&#8211;2000&#8211;2020</string>
+    <string name="title_activity_scanner">Scanner</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#24233d</color>
+    <color name="colorPrimaryDark">#204061</color>
+    <color name="colorAccent">#fbb101</color>
+    <color name="colorAccentSecondary">#46484b</color>
+    <color name="viewBg">#f8f8f8</color>
+    <color name="btn_disabled">#999</color>
+    <color name="lbl_value">#222222</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_trans">#99FFFFFF</color>
+
+    <color name="dark_gray">#787878</color>
+
+    <!-- background -->
+    <color name="bg_bright">#ffffffff</color>
+    <color name="bg_less_bright">#ffe8e8f0</color>
+    <color name="bg_action_bar">#ff222222</color>
+    <color name="bg_panel">#fff2f2f8</color>
+    <color name="bg_form">@android:color/white</color>
+    <color name="bg_list">#40ffffff</color>
+    <color name="bg_list_selected">#40808090</color>
+    <color name="bg_dialog_title">@android:color/transparent</color>
+    <color name="bg_shortcut">#fff5f5f5</color>
+    <color name="jet">#222222</color>
+    <!-- password strength -->
+    <color name="fg_password_strength_weak">#ff0000</color>
+    <color name="fg_password_strength_fair">#c06000</color>
+    <color name="fg_password_strength_strong">#00a000</color>
+    <color name="iron">#CCCCCC</color>
+    <!-- scanner -->
+    <color name="scan_mask">#60000000</color>
+    <color name="scan_laser">#cc0000</color>
+    <color name="scan_dot">#ff6600</color>
+    <color name="scan_result_view">#b0000000</color>
+    <color name="scan_result_dots">#c099cc00</color>
+
+    <color name="msg_no_notes">#999</color>
+    <color name="hint_enter_note">#89c3c3c3</color>
+    <color name="timestamp">#858585</color>
+    <color name="note_list_text">#232323</color>
+</resources>
