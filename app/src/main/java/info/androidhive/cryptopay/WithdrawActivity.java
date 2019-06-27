@@ -152,7 +152,7 @@ public class WithdrawActivity extends AppCompatActivity {
         } catch (JSONException e) {
         }
 
-        JsonObjectRequest req = new JsonObjectRequest(Request.Method.POST, CONFIG.PRE_BNU + getPeer() + CONFIG.POST_BNU, params,
+        JsonObjectRequest req = new JsonObjectRequest(Request.Method.POST, CONFIG.BNU_NODE, params,
                 new Response.Listener<JSONObject>() {
                     @Override
                     public void onResponse(JSONObject response) {
@@ -319,7 +319,7 @@ public class WithdrawActivity extends AppCompatActivity {
         } catch (JSONException e) {
         }
 
-        JsonObjectRequest req = new JsonObjectRequest(Request.Method.POST, CONFIG.PRE_BNU + getPeer() + CONFIG.POST_BNU, parameters,
+        JsonObjectRequest req = new JsonObjectRequest(Request.Method.POST, CONFIG.BNU_NODE, parameters,
                 new Response.Listener<JSONObject>() {
                     @RequiresApi(api = Build.VERSION_CODES.KITKAT)
                     @Override
